@@ -1,3 +1,9 @@
+<<<<<<<HEAD
 Name: rana umair shahid
+
+=======
+Name: rana umair
+>>>>>>>
 Email: ranaumair9797@ucp.edu.pk
 Faculty of Information Technology
+UCP
